@@ -1,4 +1,4 @@
-# Remix this proyecto to use. :D
+# Remix this proyecto to use. :DD
 
 ## - Step 1:
 #### Copy and paste your bot token:
